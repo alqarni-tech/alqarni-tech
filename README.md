@@ -7,7 +7,7 @@
 ---
 
 ## 💼 **About Me**
-- 💻 12+ years of experience in software development and architecture
+- 💻 14+ years of experience in software development and architecture
 - 🏆 Proven track record delivering solutions for tourism, education, insurance, and enterprise communication sectors
 - 👨‍💻 Available for consulting, freelance development, and advisory services
 
