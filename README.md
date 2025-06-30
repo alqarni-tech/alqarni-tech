@@ -32,4 +32,4 @@
 ---
 
 ## 📫 **Connect With Me**
-[LinkedIn](https://www.linkedin.com/in/hussainalqarni/) • [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/hussainalqarni/) • [Email](mailto:dev.alqarni@gmail.com)
