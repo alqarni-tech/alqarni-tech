@@ -23,11 +23,13 @@
 ---
 
 ## 📌 **Pinned Repositories**
-👉 [Your SaaS Multi-Tenant Boilerplate](#)  
-👉 [API Starter Template](#)  
-👉 [Example Microservice](#)  
+👉 [SaaS Multi-Tenant Starter](https://github.com/your-github-username/SaaS-MultiTenant-Starter)  
+👉 [API Design Template](https://github.com/your-github-username/API-Design-Template)  
+👉 [Microservice With Messaging](https://github.com/your-github-username/Microservice-With-Messaging)  
+👉 [Clean Architecture Showcase](https://github.com/your-github-username/CleanArchitecture-Showcase)  
+👉 [DevOps CI/CD Template](https://github.com/your-github-username/DevOps-CICD-Template)  
 
-*(Update with actual repo links once you pin them)*
+*(Update "your-github-username" with your actual GitHub username or organization)*
 
 ---
 
