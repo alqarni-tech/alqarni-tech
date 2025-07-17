@@ -29,8 +29,6 @@
 👉 [Clean Architecture Showcase](https://github.com/your-github-username/CleanArchitecture-Showcase)  
 👉 [DevOps CI/CD Template](https://github.com/your-github-username/DevOps-CICD-Template)  
 
-*(Update "your-github-username" with your actual GitHub username or organization)*
-
 ---
 
 ## 📫 **Connect With Me**
